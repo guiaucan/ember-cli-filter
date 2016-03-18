@@ -1,1 +1,1 @@
-# ember-cli-filter
+# Ember-cli-filter
